@@ -18,7 +18,12 @@ export class Planta {
         }
     }
 
-    private getFosfato() {
+    morrer() {
+        console.log('[Planta] Planta morreu e se decompôs...');
+        return this.fosfato;
+    }
+
+    getFosfato() {
         return this.fosfato
     }
 }
