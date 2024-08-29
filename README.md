@@ -1,3 +1,7 @@
+# Atividade de Legislação Ambiental
+
+## Aplicação simula como funciona o ciclo de vida do fósforo.
+
 Chuva cai na rocha causando intemperismo e liberando fosfato para o solo, 
 plantas absorvem a substancia para construir tecido
 animal herbivoro come planta transferindo o fosforo ao longo da cadeia alimentar
